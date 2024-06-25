@@ -1,0 +1,14 @@
+C:\Users\Almnos\Desktop\constructoraSA\constructora\obj\Debug\constructora.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Desktop\constructoraSA\constructora\bin\Debug\constructora.exe.config
+C:\Users\Almnos\Desktop\constructoraSA\constructora\bin\Debug\constructora.exe
+C:\Users\Almnos\Desktop\constructoraSA\constructora\bin\Debug\constructora.pdb
+C:\Users\Almnos\Desktop\constructoraSA\constructora\obj\Debug\constructora.exe
+C:\Users\Almnos\Desktop\constructoraSA\constructora\obj\Debug\constructora.pdb
+E:\Proyectos\universidad\constructoraSA\constructora\obj\Debug\constructora.csprojResolveAssemblyReference.cache
+E:\Proyectos\universidad\constructoraSA\constructora\obj\Debug\constructora.exe
+E:\Proyectos\universidad\constructoraSA\constructora\bin\Debug\constructora.exe.config
+E:\Proyectos\universidad\constructoraSA\constructora\bin\Debug\constructora.exe
+E:\Proyectos\universidad\constructoraSA\constructora\bin\Debug\constructora.pdb
+E:\Proyectos\universidad\constructoraSA\constructora\obj\Debug\constructora.pdb
+D:\dev\Proyectos\uni\constructoraSA\constructora\obj\Debug\constructora.exe
+D:\dev\Proyectos\uni\constructoraSA\constructora\obj\Debug\constructora.pdb
